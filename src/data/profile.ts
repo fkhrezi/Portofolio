@@ -6,7 +6,7 @@ export const profile = {
   location: "Indonesia",
   university: "Bina Nusantara University",
   email: "fakhrezi170806@gmail.com",
-  cvPath: "/Fakhri Fahrezi_CV.pdf",
+  cvPath: "/Fakhri-Fahrezi-CV.pdf",
   links: {
     linkedin: "www.linkedin.com/in/fakhrifahrezi",
     github: "",

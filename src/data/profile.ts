@@ -8,7 +8,7 @@ export const profile = {
   email: "fakhrezi170806@gmail.com",
   cvPath: "/Fakhri-Fahrezi-CV.pdf",
   links: {
-    linkedin: "www.linkedin.com/in/fakhrifahrezi",
+    linkedin: "https://www.linkedin.com/in/fakhrifahrezi",
     github: "",
   },
 };

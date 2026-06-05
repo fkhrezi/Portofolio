@@ -1,0 +1,42 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="taniveriTitle taniveriDesc">
+  <title id="taniveriTitle">TaniVeri project cover</title>
+  <desc id="taniveriDesc">A clean supply chain transparency concept showing origin, quality, verification, and trust signals.</desc>
+  <rect width="1200" height="760" fill="#f7f7f8"/>
+  <path d="M0 0H1200V760H0V0Z" fill="url(#bg)"/>
+  <circle cx="960" cy="146" r="210" fill="#dcfce7" opacity="0.5"/>
+  <circle cx="222" cy="642" r="185" fill="#ffedd5" opacity="0.58"/>
+  <rect x="152" y="112" width="896" height="536" rx="28" fill="white" stroke="#e5e7eb"/>
+  <rect x="196" y="156" width="808" height="74" rx="20" fill="#f8fafc"/>
+  <circle cx="236" cy="193" r="19" fill="#12815f"/>
+  <text x="272" y="199" fill="#1d1d1f" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700">Product Origin</text>
+  <rect x="780" y="177" width="166" height="32" rx="16" fill="#12815f"/>
+  <text x="821" y="199" fill="white" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">Verified</text>
+  <rect x="214" y="276" width="224" height="258" rx="22" fill="#f8fafc" stroke="#e5e7eb"/>
+  <circle cx="326" cy="358" r="62" fill="#dcfce7"/>
+  <path d="M284 359C303 338 321 337 337 356C356 378 376 373 388 344" stroke="#12815f" stroke-width="10" stroke-linecap="round"/>
+  <rect x="260" y="456" width="132" height="12" rx="6" fill="#94a3b8"/>
+  <rect x="278" y="482" width="96" height="12" rx="6" fill="#cbd5e1"/>
+  <rect x="488" y="276" width="224" height="258" rx="22" fill="white" stroke="#e5e7eb"/>
+  <text x="524" y="326" fill="#1d1d1f" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Quality Signals</text>
+  <rect x="524" y="366" width="152" height="14" rx="7" fill="#12815f" opacity="0.25"/>
+  <rect x="524" y="406" width="122" height="14" rx="7" fill="#2563eb" opacity="0.22"/>
+  <rect x="524" y="446" width="168" height="14" rx="7" fill="#f97316" opacity="0.2"/>
+  <rect x="760" y="276" width="224" height="258" rx="22" fill="#fbfdff" stroke="#e5e7eb"/>
+  <text x="796" y="326" fill="#1d1d1f" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Trust Path</text>
+  <circle cx="824" cy="385" r="17" fill="#12815f"/>
+  <circle cx="872" cy="427" r="17" fill="#2563eb"/>
+  <circle cx="920" cy="385" r="17" fill="#c2410c"/>
+  <path d="M840 398L856 413M888 413L904 398" stroke="#94a3b8" stroke-width="6" stroke-linecap="round"/>
+  <rect x="808" y="468" width="126" height="12" rx="6" fill="#94a3b8"/>
+  <rect x="214" y="562" width="770" height="40" rx="20" fill="#f8fafc" stroke="#e5e7eb"/>
+  <rect x="244" y="576" width="174" height="12" rx="6" fill="#12815f" opacity="0.32"/>
+  <rect x="462" y="576" width="226" height="12" rx="6" fill="#2563eb" opacity="0.2"/>
+  <rect x="732" y="576" width="188" height="12" rx="6" fill="#f97316" opacity="0.2"/>
+  <defs>
+    <linearGradient id="bg" x1="140" y1="66" x2="1036" y2="712" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff"/>
+      <stop offset="0.55" stop-color="#f2f8f5"/>
+      <stop offset="1" stop-color="#fff7ed"/>
+    </linearGradient>
+  </defs>
+</svg>

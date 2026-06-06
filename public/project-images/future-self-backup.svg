@@ -1,0 +1,48 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="futureSelfTitle futureSelfDesc">
+  <title id="futureSelfTitle">Future Self project cover</title>
+  <desc id="futureSelfDesc">A clean AI personal growth dashboard concept with missions, habits, insights, badges, and future-self letters.</desc>
+  <rect width="1200" height="760" fill="#f6f7f9"/>
+  <path d="M0 0H1200V760H0V0Z" fill="url(#bg)"/>
+  <circle cx="1010" cy="90" r="210" fill="#dbeafe" opacity="0.52"/>
+  <circle cx="148" cy="645" r="185" fill="#dcfce7" opacity="0.46"/>
+  <rect x="144" y="104" width="912" height="552" rx="30" fill="white" stroke="#e5e7eb"/>
+  <rect x="184" y="144" width="832" height="72" rx="20" fill="#f8fafc"/>
+  <circle cx="224" cy="180" r="18" fill="#2563eb"/>
+  <rect x="260" y="166" width="152" height="12" rx="6" fill="#1d1d1f"/>
+  <rect x="260" y="188" width="224" height="9" rx="4.5" fill="#9ca3af"/>
+  <rect x="836" y="163" width="132" height="34" rx="17" fill="#1d1d1f"/>
+  <rect x="208" y="258" width="330" height="254" rx="22" fill="#f8fafc" stroke="#e5e7eb"/>
+  <text x="236" y="304" fill="#1d1d1f" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="700">Today&apos;s Mission</text>
+  <rect x="236" y="332" width="246" height="12" rx="6" fill="#cbd5e1"/>
+  <rect x="236" y="366" width="252" height="16" rx="8" fill="#2563eb" opacity="0.16"/>
+  <rect x="236" y="401" width="188" height="16" rx="8" fill="#12815f" opacity="0.16"/>
+  <rect x="236" y="436" width="232" height="16" rx="8" fill="#f97316" opacity="0.18"/>
+  <rect x="236" y="472" width="154" height="12" rx="6" fill="#94a3b8"/>
+  <rect x="572" y="258" width="196" height="254" rx="22" fill="white" stroke="#e5e7eb"/>
+  <text x="600" y="303" fill="#1d1d1f" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Habits</text>
+  <circle cx="625" cy="364" r="41" stroke="#dbeafe" stroke-width="14"/>
+  <path d="M625 323A41 41 0 0 1 666 364" stroke="#2563eb" stroke-width="14" stroke-linecap="round"/>
+  <rect x="600" y="432" width="112" height="11" rx="5.5" fill="#94a3b8"/>
+  <rect x="600" y="458" width="136" height="11" rx="5.5" fill="#cbd5e1"/>
+  <rect x="796" y="258" width="196" height="254" rx="22" fill="#fbfdff" stroke="#e5e7eb"/>
+  <text x="824" y="303" fill="#1d1d1f" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700">Insights</text>
+  <path d="M830 438C858 407 883 415 909 378C932 345 952 353 971 324" stroke="#2563eb" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="830" cy="438" r="8" fill="#2563eb"/>
+  <circle cx="909" cy="378" r="8" fill="#2563eb"/>
+  <circle cx="971" cy="324" r="8" fill="#2563eb"/>
+  <rect x="824" y="462" width="116" height="11" rx="5.5" fill="#94a3b8"/>
+  <rect x="208" y="540" width="372" height="68" rx="20" fill="#1d1d1f"/>
+  <text x="236" y="581" fill="white" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="700">Letter to Future Self</text>
+  <rect x="614" y="540" width="378" height="68" rx="20" fill="#f8fafc" stroke="#e5e7eb"/>
+  <circle cx="652" cy="574" r="18" fill="#fef3c7"/>
+  <circle cx="700" cy="574" r="18" fill="#dbeafe"/>
+  <circle cx="748" cy="574" r="18" fill="#dcfce7"/>
+  <rect x="796" y="566" width="120" height="12" rx="6" fill="#9ca3af"/>
+  <defs>
+    <linearGradient id="bg" x1="158" y1="72" x2="1050" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff"/>
+      <stop offset="0.53" stop-color="#f3f6fb"/>
+      <stop offset="1" stop-color="#eef7f2"/>
+    </linearGradient>
+  </defs>
+</svg>

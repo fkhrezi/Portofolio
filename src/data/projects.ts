@@ -134,8 +134,8 @@ export const projects: Project[] = [
     "Explore privacy-aware AI features that can provide helpful insights without making users feel exposed or over-monitored.",
   ],
 
-  image: "/project-images/future-self.svg",
-  heroImage: "/project-images/future-self.svg",
+  image: "/project-images/future-self.png",
+  heroImage: "/project-images/future-self.png",
   demoUrl: "",
   githubUrl: "",
   featured: true,

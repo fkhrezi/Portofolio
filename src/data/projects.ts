@@ -231,8 +231,8 @@ export const projects: Project[] = [
     "Validate the concept through simple user feedback or interviews to understand which trust signals matter most.",
   ],
 
-  image: "/project-images/taniveri.svg",
-  heroImage: "/project-images/taniveri.svg",
+  image: "/project-images/taniveri.png",
+  heroImage: "/project-images/taniveri.png",
   demoUrl: "",
   githubUrl: "",
   featured: false,

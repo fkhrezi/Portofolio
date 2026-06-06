@@ -135,8 +135,8 @@ export const projects: Project[] = [
   ],
 
   image: "/project-images/future-self.png",
-  heroImage: "/project-images/future-self.png",
-  demoUrl: "",
+  heroImage: "/project-images/future-self-heroImage.png",
+  demoUrl: "https://ai.studio/apps/cb663cc8-e7dd-4753-94f5-3a02b97e7a67?fullscreenApplet=true",
   githubUrl: "",
   featured: true,
 },
@@ -233,7 +233,7 @@ export const projects: Project[] = [
 
   image: "/project-images/taniveri.png",
   heroImage: "/project-images/taniveri.png",
-  demoUrl: "",
+  demoUrl: "https://www.figma.com/proto/uEeI3C2CXmy03kL25TNCec/TaniVeri?node-id=1-2058&t=4d1xKBqV2G9G0MtF-1",
   githubUrl: "",
   featured: false,
 },
@@ -327,9 +327,9 @@ export const projects: Project[] = [
     "Explore possible collaboration models with communities, counselors, or support organizations to make the concept more realistic.",
   ],
 
-  image: "/project-images/pulihbersama.svg",
-  heroImage: "/project-images/pulihbersama.svg",
-  demoUrl: "",
+  image: "/project-images/pulihbersama.png",
+  heroImage: "/project-images/pulihbersama.png",
+  demoUrl: "https://www.figma.com/design/gQqnYW9Ax9G4x8Jaym8NSf/Hackfest-UI-UX?node-id=2013-261&t=fJzB17JnaOc4mpli-1",
   githubUrl: "",
   featured: false,
 }

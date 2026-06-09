@@ -6,57 +6,39 @@ export type Achievement = {
 
 export const achievements: Achievement[] = [
   {
-    title: "Built Future Self as a Featured AI Product Prototype",
+    title: "Built Future Self as an AI Product Prototype",
     year: "2026",
     description:
-      "Created an AI-assisted personal growth web app prototype focused on daily missions, habit tracking, reflections, badges, personal insights, and future-self letters.",
+      "Designed and developed an AI-assisted personal growth web application, transforming a product idea into a functional prototype with real user-focused features.",
   },
   {
-    title: "Completed Microsoft AI-900T00-A Azure AI Fundamentals Training",
+    title: "Completed Microsoft AI-900 Azure AI Fundamentals Training",
     year: "2026",
     description:
-      "Completed a 15-hour Microsoft Elevate AI training session covering foundational Azure AI concepts and basic AI implementation awareness.",
+      "Completed Microsoft Azure AI Fundamentals training, strengthening knowledge of artificial intelligence concepts and AI-driven solutions.",
   },
   {
-    title: "Developed Product Concept Case Studies",
+    title: "Selected as a Freshmen Partner Mentor",
     year: "2025",
     description:
-      "Documented TaniVeri and PulihBersama as structured product concepts with problem framing, solution planning, user journey thinking, and UI/UX direction.",
+      "Guided and supported first-year university students, developing leadership, communication, and mentoring skills.",
   },
   {
-    title: "Completed Self-Paced Azure AI Basic Fundamental",
+    title: "Developed Digital Product Case Studies",
     year: "2025",
     description:
-      "Completed a self-paced learning program focused on basic AI concepts, Azure AI fundamentals, and introductory AI literacy.",
+      "Created and documented TaniVeri and PulihBersama as structured digital product concepts using business analysis and user-centered design approaches.",
   },
   {
-    title: "Participated in SAP Signavio Business Process Modeling Workshop",
-    year: "2025",
+    title: "Achieved CEFR C2.2 Business Communication Proficiency",
+    year: "2026",
     description:
-      "Joined an introductory workshop on business process modeling using SAP Signavio, supporting interest in business analysis and information systems.",
+      "Completed advanced English coursework focused on business communication, market research, and professional workplace interactions.",
   },
   {
-    title: "Joined International Seminar on Sustainable Urban Development",
+    title: "Built and Deployed a Professional Portfolio Website",
     year: "2025",
     description:
-      "Participated in an international seminar discussing sustainable urban development through innovation, infrastructure, and collaboration.",
-  },
-  {
-    title: "Started a Scalable Personal Portfolio Website",
-    year: "2025",
-    description:
-      "Built a long-term portfolio system to organize projects, case studies, skills, education, certifications, achievements, and resume content.",
-  },
-  {
-    title: "Strengthened Product and UI/UX Thinking Through Academic Projects",
-    year: "2025",
-    description:
-      "Practiced translating business problems into digital product concepts through research, problem-solution mapping, and interface planning.",
-  },
-  {
-    title: "Developed Peer Mentoring Experience as a Freshmen Partner",
-    year: "2025",
-    description:
-      "Supported new students in adapting to university life while strengthening communication, leadership, and peer mentoring skills.",
+      "Designed, developed, and deployed a personal portfolio website to showcase projects, certifications, achievements, and professional growth.",
   },
 ];

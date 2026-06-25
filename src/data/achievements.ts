@@ -41,4 +41,10 @@ export const achievements: Achievement[] = [
     description:
       "Designed, developed, and deployed a personal portfolio website to showcase projects, certifications, achievements, and professional growth.",
   },
+  {
+  title: "Participated in #JuaraVibeCoding by Google Developer Groups",
+  year: "2026",
+  description:
+    "Joined #JuaraVibeCoding as a participant, applying creativity and AI-assisted building practice in a developer-focused learning event.",
+ },
 ];

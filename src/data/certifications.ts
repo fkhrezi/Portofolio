@@ -61,4 +61,10 @@ export const certifications: Certification[] = [
     year: "2026",
     credentialUrl: "",
   },
+  {
+  title: "Certificate of Completion – #JuaraVibeCoding Participant",
+  issuer: "Google Developer Groups",
+  year: "2026",
+  credentialUrl: "https://goo.gle/jvc-cert-verifier",
+  },
 ];

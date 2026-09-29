@@ -25,12 +25,12 @@ export const certifications: Certification[] = [
     credentialUrl: "",
   },
   {
-    title: "Sustainable Urban Development through Innovation, Infrastructure, and Collaboration",
+    title:
+      "Sustainable Urban Development through Innovation, Infrastructure, and Collaboration",
     issuer: "BINUS Internationalization Office",
     year: "2025",
     credentialUrl: "",
   },
-
   {
     title: "English Independent User (CEFR B2.2)",
     issuer: "Beelingua & Bina Nusantara University",
@@ -62,9 +62,21 @@ export const certifications: Certification[] = [
     credentialUrl: "",
   },
   {
-  title: "Certificate of Completion – #JuaraVibeCoding Participant",
-  issuer: "Google Developer Groups",
-  year: "2026",
-  credentialUrl: "https://goo.gle/jvc-cert-verifier",
+    title: "Certificate of Completion – #JuaraVibeCoding Participant",
+    issuer: "Google Developer Groups",
+    year: "2026",
+    credentialUrl: "https://goo.gle/jvc-cert-verifier",
+  },
+  {
+    title: "Artificial Intelligence & Automation Bootcamp – Batch 4",
+    issuer: "MySkill Intensive Bootcamp",
+    year: "2026",
+    credentialUrl: "",
+  },
+  {
+    title: "Intelligent by Design: Build an AI Agent",
+    issuer: "IBM SkillsBuild",
+    year: "2026",
+    credentialUrl: "",
   },
 ];

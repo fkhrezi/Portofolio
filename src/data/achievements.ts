@@ -47,4 +47,10 @@ export const achievements: Achievement[] = [
   description:
     "Joined #JuaraVibeCoding as a participant, applying creativity and AI-assisted building practice in a developer-focused learning event.",
  },
+ {
+  title: "Achieved Distinction in AI & Automation Bootcamp",
+  year: "2026",
+  description:
+    "Completed the MySkill Intensive Bootcamp in Artificial Intelligence & Automation with a total score of 91 and achieved the Distinction predicate.",
+},
 ];
